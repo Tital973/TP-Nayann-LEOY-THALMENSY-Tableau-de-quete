@@ -77,17 +77,6 @@ Une propriété calculée (`computed`) permet d'afficher le nombre total de quê
 
 # Architecture du projet
 
-src/
-│
-├── components/
-│   ├── Board.vue
-│   ├── Column.vue
-│   ├── Cards.vue
-│   └── Form.vue
-│
-├── App.vue
-└── main.js
-
 
 ### App.vue
 
